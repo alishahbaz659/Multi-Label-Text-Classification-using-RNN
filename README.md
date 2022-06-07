@@ -10,3 +10,4 @@ At first hidden start is set to all zeros.
 Here we have mapped all the indexes present tin the input sequence of corresponding word vector using our trained word embedding. Then Applied RNN layer to start learning of the words.
 Then at last linear layer applied to the output.
 Model accuracy is measured using the Jaccard-Score and f1_score & hamming loss. Model is later saved to test it for the real world input and calculated the accuracy.
+![1_0hkR4Bqiq1MN6Mew8E9t1w](https://user-images.githubusercontent.com/79834087/172398450-b781ca77-1349-41e9-b037-4c65ae4e72dd.png)
